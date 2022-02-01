@@ -1,6 +1,5 @@
 ﻿/*
- * 
- * Assignment-1 
+ *
  * 
  * Created By: Palak Soni
  * 
